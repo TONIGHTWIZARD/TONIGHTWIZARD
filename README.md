@@ -1,6 +1,8 @@
-### Hi there, I'm SATVIK - aka [TONIGHTWIZARD]👋
-
-
+### Hi there, I'm SATVIK - aka TONIGHTWIZARD👋
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
 ## I'm a Student, Developer, and Content Creator!!
 
 - 🔭 I just launched my Discord Bot: [Master Blaster][Link]!
