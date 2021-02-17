@@ -19,7 +19,7 @@
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+[<img align="left" alt="codeSTACKr | Discord" width="22px" src="https://cdn4.iconfinder.com/data/icons/vector-brand-logos/40/Discord-512.png" />][Discord]
 <br />
 
 ### Languages and Tools:
@@ -39,3 +39,4 @@
 [youtube]: https://youtube.com/channel/UCayrovEY7SmmxBQo-d2IAbw
 [instagram]: https://instagram.com/satvi_kgupta
 [Link]: https://discord.com/api/oauth2/authorize?client_id=804064449149009982&permissions=8&scope=bot
+[Discord]: https://discord.gg/JmSWcsxFBX
